@@ -33,7 +33,7 @@ class ViewEmployeeComponent extends Component {
                             <div> { this.state.employee.t_first_name }</div>
                         </div>
                         <div className = "row">
-                            <label> Addree : </label>
+                            <label> Address : </label>
                             <div> { this.state.employee.t_address }</div>
                         </div>
                     </div>

@@ -20,7 +20,7 @@ function About() {
       </div>
 
         <p>
-        The <b>“Efficient Shipping System”</b> is online marketplace which provides platform
+        The <b>“transport And Logistic Administration”</b> is online marketplace which provides platform
          for customer to connect with many transporters within a click. This saves customer’s 
          time as well as money. The transporter can get information of many products posted by 
          customer’s and it is helpful to expand their business.

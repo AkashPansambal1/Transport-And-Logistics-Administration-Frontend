@@ -11,7 +11,7 @@ function Home() {
       <Navbar/>
     <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
       <div className="headerContainer">
-        <h1>Efficient Shipping System </h1>
+        <h1>Transport And Logistic Administration </h1>
         <br></br>
         <p>We make moving big stuff cheap and easy with care...</p>
         <Link to="/contact">
